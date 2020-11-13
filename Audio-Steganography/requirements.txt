@@ -1,0 +1,2 @@
+cryptography==2.3
+bitarray==0.9.3
